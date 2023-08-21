@@ -1,0 +1,17 @@
+transformers
+torch
+opencc
+flashtext
+tomark
+SentencePiece
+chardet
+apache-flink
+jieba
+pymysql
+dbutils
+xToolkit
+huggingface_hub
+openyxl
+jieba_fast
+TextBlob
+fpgrowth_py
